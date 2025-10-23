@@ -12,9 +12,6 @@ This is the repo for CS 526 group2's project. This repository contains three Jup
   - [itineraries_sample.csv](itineraries_sample.csv): Sample of 20k tickets.
   - [KG_cost_small.csv](KG_cost_small.csv): Route‑level panel for macro analysis.
 
-- Misc
-  - [LICENSE](LICENSE)
-
 ## Environment
 
 The notebooks are designed for Google Colab, but run locally with the same Python packages.
