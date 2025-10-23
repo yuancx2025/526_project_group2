@@ -23,16 +23,6 @@ Key packages installed within notebooks:
 - geopandas, geodatasets, shapely (mapping)
 - linearmodels, statsmodels (panel regressions)
 
-## Repository layout
-
-- [Flight_Prices_Analysis.ipynb](Flight_Prices_Analysis.ipynb)
-- [ds_kaggle.ipynb](ds_kaggle.ipynb)
-- [Data_science.ipynb](Data_science.ipynb)
-- [itineraries_sample.csv](itineraries_sample.csv)
-- [KG_cost_small.csv](KG_cost_small.csv)
-- [README.md](README.md)
-- [LICENSE](LICENSE)
-
 ## 1) Ticket‑level EDA and route HHI (Flight_Prices_Analysis.ipynb)
 
 1. Download and persist Kaggle data
