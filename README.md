@@ -138,8 +138,6 @@ Applies HHI calculation with different thresholds:
 
 ### 4. Lasso Regression Price Prediction (lasso.ipynb)
 
-**Author**: TING ZHOU
-
 **Data Loading:**
 - Uses `sample_20k.csv` from Google Drive
 - Implements same HHI-based market classification as ridge model
@@ -173,8 +171,6 @@ Similar to ridge but with enhanced carrier features:
 - Residual analysis and visualization
 
 ### 5. XGBoost Price Prediction (xgboost.ipynb)
-
-**Authors**: TING ZHOU, Michael Yuan
 
 **Data Loading:**
 - Uses local file path for sample dataset
