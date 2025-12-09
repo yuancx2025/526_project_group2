@@ -24,7 +24,7 @@ This is the repo for CS 526 group2's project. This repository contains multiple 
 
 ### Market Structure Analysis
 - **[competetive_structual_analysis/Data_science.ipynb](competetive_structual_analysis/Data_science.ipynb)**: Route‑year panel analysis using the route dataset, examining relationships between market concentration (HHI) and fare levels/inequality, with U.S. route visualizations.
-- **[pca_analysis/PCA.ipynb](competetive_structual_analysis/PCA.ipynb)**:
+- **[pca_analysis/PCA.ipynb](pca_analysis/PCA.ipynb)**:
 This notebook performs a Principal Component Analysis (PCA) on a 5,000-example sample of flight itineraries. It loads the dataset, preprocesses the relevant features, applies PCA, and visualizes the first two principal components. The resulting plot shows that the number of flight legs is the main source of variation in the data.
 
 ### Price Prediction & EDA
