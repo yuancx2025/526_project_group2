@@ -58,6 +58,7 @@ Key packages installed within notebooks:
 - Downloads the Kaggle "dilwong/flightprices" dataset via API
 - Converts large CSV to Parquet format for efficient storage and loading
 - Stores processed data in Google Drive for persistence across sessions
+- Geerates 20,000 line uniform sample from the data
 
 **Pricing Analysis:**
 The notebook explores fare patterns across multiple dimensions:
