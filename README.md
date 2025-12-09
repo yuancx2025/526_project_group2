@@ -6,6 +6,8 @@ This is the repo for CS 526 group2's project. This repository contains multiple 
 
 ```
 526_project_group2/
+├── pca_analysis/
+│   └── PCA.ipynb                    # PCA on 5k itineraries; visualizes structure and shows flight-leg count as main variance driver
 ├── competetive_structual_analysis/
 │   └── Data_science.ipynb          # Market structure & panel regression analysis
 ├── price_prediction/
