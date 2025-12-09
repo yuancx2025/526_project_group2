@@ -8,6 +8,8 @@ This is the repo for CS 526 group2's project. This repository contains multiple 
 526_project_group2/
 ├── pca_analysis/
 │   └── PCA.ipynb                    # PCA on 5k itineraries; visualizes structure and shows flight-leg count as main variance driver
+├── data_constuction_and_visualization/
+│   └── DB1B Dataset and Visualization.ipynb   # Data Construction, Benchmarking, and Engineering Explanatory Features
 ├── competetive_structual_analysis/
 │   └── Data_science.ipynb          # Market structure & panel regression analysis
 ├── price_prediction/
@@ -26,6 +28,7 @@ This is the repo for CS 526 group2's project. This repository contains multiple 
 - **[competetive_structual_analysis/Data_science.ipynb](competetive_structual_analysis/Data_science.ipynb)**: Route‑year panel analysis using the route dataset, examining relationships between market concentration (HHI) and fare levels/inequality, with U.S. route visualizations.
 - **[pca_analysis/PCA.ipynb](pca_analysis/PCA.ipynb)**:
 This notebook performs a Principal Component Analysis (PCA) on a 5,000-example sample of flight itineraries. It loads the dataset, preprocesses the relevant features, applies PCA, and visualizes the first two principal components. The resulting plot shows that the number of flight legs is the main source of variation in the data.
+
 
 ### Price Prediction & EDA
 - **[price_prediction/Flight_Prices_Analysis.ipynb](price_prediction/Flight_Prices_Analysis.ipynb)**: Large ticket‑level exploratory data analysis on the Kaggle "flightprices" dataset, including fare aggregations by various dimensions and HHI market structure classification.
