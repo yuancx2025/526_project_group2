@@ -25,10 +25,14 @@ This is the repo for CS 526 group2's project. This repository contains multiple 
 ## Notebooks Overview
 
 ### Market Structure Analysis
-- **[competetive_structual_analysis/Causal Inference.ipynb](competetive_structual_analysis/Data_science.ipynb)**: Route‑year panel analysis using the route dataset, examining relationships between market concentration (HHI) and fare levels/inequality, with U.S. route visualizations.
+- **[competetive_structual_analysis/Data_science.ipynb](competetive_structual_analysis/Data_science.ipynb)**: Route‑year panel analysis using the route dataset, examining relationships between market concentration (HHI) and fare levels/inequality, with U.S. route visualizations.
+
+### PCA Analysis
 - **[pca_analysis/PCA.ipynb](pca_analysis/PCA.ipynb)**:
 This notebook performs a Principal Component Analysis (PCA) on a 5,000-example sample of flight itineraries. It loads the dataset, preprocesses the relevant features, applies PCA, and visualizes the first two principal components. The resulting plot shows that the number of flight legs is the main source of variation in the data.
 
+### Data Construction & Visualization
+- **[data_construction_and_visualization/DB1B Dataset and Visualization.ipynb](data_construction_and_visualization/DB1B Dataset and Visualization.ipynb)**: Constructs the cleaned DB1B-based route panel used in later analyses, documenting sampling and reliability filters, feature engineering (e.g., HHI and fare-dispersion measures), and exploratory visualizations of U.S. market structure.
 
 ### Price Prediction & EDA
 - **[price_prediction/Flight_Prices_Analysis.ipynb](price_prediction/Flight_Prices_Analysis.ipynb)**: Large ticket‑level exploratory data analysis on the Kaggle "flightprices" dataset, including fare aggregations by various dimensions and HHI market structure classification.
