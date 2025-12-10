@@ -11,7 +11,7 @@ This is the repo for CS 526 group2's project. This repository contains multiple 
 ├── data_constuction_and_visualization/
 │   └── DB1B Dataset and Visualization.ipynb   # Data Construction, Benchmarking, and Engineering Explanatory Features
 ├── competetive_structual_analysis/
-│   └── Data_science.ipynb          # Market structure & panel regression analysis
+│   └── Causal Inference.ipynb          # Market structure & panel regression analysis
 ├── price_prediction/
 │   ├── Flight_Prices_Analysis.ipynb # EDA and market HHI computation
 │   ├── ridge.ipynb                  # Ridge regression price prediction
@@ -25,7 +25,7 @@ This is the repo for CS 526 group2's project. This repository contains multiple 
 ## Notebooks Overview
 
 ### Market Structure Analysis
-- **[competetive_structual_analysis/Data_science.ipynb](competetive_structual_analysis/Data_science.ipynb)**: Route‑year panel analysis using the route dataset, examining relationships between market concentration (HHI) and fare levels/inequality, with U.S. route visualizations.
+- **[competetive_structual_analysis/Causal Inference.ipynb](competetive_structual_analysis/Data_science.ipynb)**: Route‑year panel analysis using the route dataset, examining relationships between market concentration (HHI) and fare levels/inequality, with U.S. route visualizations.
 - **[pca_analysis/PCA.ipynb](pca_analysis/PCA.ipynb)**:
 This notebook performs a Principal Component Analysis (PCA) on a 5,000-example sample of flight itineraries. It loads the dataset, preprocesses the relevant features, applies PCA, and visualizes the first two principal components. The resulting plot shows that the number of flight legs is the main source of variation in the data.
 
@@ -81,7 +81,7 @@ The notebook explores fare patterns across multiple dimensions:
   - **Competitive**: 0 < HHI ≤ 0.2
 - Exports route-level market structure data
 
-### 2. Market Structure & Panel Analysis (Data_science.ipynb)
+### 2. Market Structure & Panel Analysis (Causal Inference.ipynb)
 
 **Data Preparation:**
 1. Loads route-level panel dataset ([KG_cost_small.csv](data/KG_cost_small.csv)) from GitHub
