@@ -32,7 +32,7 @@ This is the repo for CS 526 group2's project. This repository contains multiple 
 This notebook performs a Principal Component Analysis (PCA) on a 5,000-example sample of flight itineraries. It loads the dataset, preprocesses the relevant features, applies PCA, and visualizes the first two principal components. The resulting plot shows that the number of flight legs is the main source of variation in the data.
 
 ### Data Construction & Visualization
-- **[data_construction_and_visualization/DB1B Dataset and Visualization.ipynb](data_construction_and_visualization/DB1B Dataset and Visualization.ipynb)**: Constructs the cleaned DB1B-based route panel used in later analyses, documenting sampling and reliability filters, feature engineering (e.g., HHI and fare-dispersion measures), and exploratory visualizations of U.S. market structure.
+- **[DB1B Dataset and Visualization.ipynb](data_constuction_and_visualization/DB1B20Dataset%20and%20Visualization.ipynb)**: Constructs the cleaned DB1B-based route panel used in later analyses, documenting sampling and reliability filters, feature engineering (e.g., HHI and fare-dispersion measures), and exploratory visualizations of U.S. market structure.
 
 ### Price Prediction & EDA
 - **[price_prediction/Flight_Prices_Analysis.ipynb](price_prediction/Flight_Prices_Analysis.ipynb)**: Large ticket‑level exploratory data analysis on the Kaggle "flightprices" dataset, including fare aggregations by various dimensions and HHI market structure classification.
