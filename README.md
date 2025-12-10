@@ -25,7 +25,7 @@ This is the repo for CS 526 group2's project. This repository contains multiple 
 ## Notebooks Overview
 
 ### Market Structure Analysis
-- **[competetive_structual_analysis/Data_science.ipynb](competetive_structual_analysis/Data_science.ipynb)**: Route‑year panel analysis using the route dataset, examining relationships between market concentration (HHI) and fare levels/inequality, with U.S. route visualizations.
+- **[competetive_structual_analysis/Casual_Inference.ipynb](competetive_structual_analysis/Casual_Inference.ipynb)**: Route‑year panel analysis using the route dataset, examining relationships between market concentration (HHI) and fare levels/inequality, with U.S. route visualizations.
 
 ### PCA Analysis
 - **[pca_analysis/PCA.ipynb](pca_analysis/PCA.ipynb)**:
